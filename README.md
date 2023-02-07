@@ -1,4 +1,4 @@
-**Built with React and NodeJs for ParseHub's screen interview**
+** A simple file browser website built with React and NodeJs**
 
 Steps:
 
