@@ -1,4 +1,4 @@
-** A simple file browser website built with React and NodeJs**
+**A simple file browser website built with React and NodeJs**
 
 Steps:
 
